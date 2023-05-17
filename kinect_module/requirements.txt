@@ -1,0 +1,3 @@
+pykinect
+numpy==1.13
+opencv-python==3.4.3.18
