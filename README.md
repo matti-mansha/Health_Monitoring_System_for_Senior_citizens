@@ -1,4 +1,4 @@
-# Health_Monitoring_System_for_Senior_citizens
+# Health Monitoring System for Senior citizens
 # Introduction
 In this modern era, Almost everyone from children to adults is busy with their work. And
 if they have elderly people to take care of, it is almost impossible for them to do this.
