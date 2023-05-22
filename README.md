@@ -1,5 +1,5 @@
 # Health_Monitoring_System_for_Senior_citizens
-#Introduction
+# Introduction
 In this modern era, Almost everyone from children to adults is busy with their work. And
 if they have elderly people to take care of, it is almost impossible for them to do this.
 Human action recognition (HAR) is considered as one of the most promising assistive
